@@ -38,3 +38,10 @@ php -S localhost:8000 (or localhost instead)
 Special appreciation to @`bnjunge` for his guide on this.
 Feel free to ask anything @`nzambakitheka@gmail.com`.
 
+
+## Images
+
+![This is an alt text.](/assets/img/im1.png "This is a sample image.")
+![This is an alt text.](/assets/img/im2.png "This is a sample image.")
+![This is an alt text.](/assets/img/im3.png "This is a sample image.")
+![This is an alt text.](/assets/img/im4.png "This is a sample image.")
